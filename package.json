@@ -18,6 +18,7 @@
   ],
   "dependencies": {
     "diff": "1.0.7",
+    "fs-extra": "^0.30.0",
     "mkdirp": "0.5.1",
     "mocha": ">=2.0.0"
   },
